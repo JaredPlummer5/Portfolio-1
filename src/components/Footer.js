@@ -28,7 +28,8 @@ class Footer extends Component {
                   )
                 }
                 style={{ display: "none" }}
-              >
+                        >
+                            
                 <span
                   className="iconify language-icon mr-5"
                   data-icon="twemoji-flag-for-flag-united-kingdom"
