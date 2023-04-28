@@ -1,20 +1,20 @@
 {
     "basic_info": {
-      "name": "Ursula Lopez",
+      "name": "Jared Plummer",
       "titles": [ "Software Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/JaredPlummer5",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/jared-plummer-8a9878251/",
+          "class": "fab fa-linkedin"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "myProfile.png"
     },
     "skills": {
       "icons": [
@@ -28,11 +28,7 @@
           "class": "devicon-css3-plain",
           "level": "95"
         },
-        {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
-          "level": "80"
-        },
+      
         {
           "name": "TypeScript",
           "class": "devicon-typescript-plain",
@@ -43,11 +39,7 @@
           "class": "devicon-javascript-plain",
           "level": "70"
         },
-        {
-          "name": "Sass",
-          "class": "devicon-sass-original",
-          "level": "75"
-        },
+      
         {
           "name": "Bootstrap",
           "class": "devicon-bootstrap-plain",
@@ -59,8 +51,38 @@
           "level": "65"
         },
         {
-          "name": "MySql",
+          "name": "Sql",
           "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "IOS",
+          "class": "devicon-apple-original",
+          "level": "60"
+        },
+        {
+          "name": "Trello",
+          "class": "devicon-trello-plain",
+          "level": "60"
+        },
+        {
+          "name": "Slack",
+          "class": "devicon-slack-plain",
+          "level": "60"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-original",
+          "level": "60"
+        },
+        {
+          "name": "Github",
+          "class": "devicon-github-original",
+          "level": "60"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain-wordmark",
           "level": "60"
         }
       ]

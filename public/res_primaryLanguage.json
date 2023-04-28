@@ -1,118 +1,144 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
-      "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
-      }
+        "description_header": "Hi",
+        "description": "I am highly motivated individual with a passion for web development. I’m a results-oriented software developer with experience and a track record of developing efficient and secure applications. Skilled in HTML, CSS, and JavaScript. As a resident of Memphis, I am also a talented musician, proficient in playing both the alto sax and piano. I am eager to continue learning and expanding my skill set in the dynamic field of web development. Thank you 💜",
+        "section_name": {
+            "about": "About me",
+            "projects": "Projects",
+            "skills": "Skills",
+            "experience": "Experience"
+        }
     },
     "projects": [
-      {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
-        "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      }
+        {
+            "title": "Connect 4",
+            "startDate": "2023",
+            "description": "A captivating web-based implementation of the classic game that promises endless hours of strategic entertainment! Developed by myself and team of other programmers. I'm a talented programmer with a passion for creating engaging interactive experiences, this meticulously crafted rendition brings the beloved Connect Four game to life in the digital realm. Immerse yourself in the sleek and intuitive user interface that seamlessly blends modern design aesthetics with nostalgic elements.",
+            "images": [
+                "images/portfolio/Connect4/Connect4.png",
+                "images/portfolio/Connect4/Player1Wins.png",
+                "images/portfolio/Connect4/Player2Wins.png"
+            ],
+            "url": "https://jaredplummer5.github.io/TeamProject/Connect4.html",
+            "technologies": [
+                {
+                    "class": "devicon-javascript-plain",
+                    "name": "JavaScript"
+                },
+                {
+                    "class": "devicon-html5-plain",
+                    "name": "HTML5"
+                },
+                {
+                    "class": "devicon-css3-plain",
+                    "name": "CSS"
+                }
+            ]
+        },
+        {
+            "title": "Salmon Cookies",
+            "startDate": "2023",
+            "description": "Cookie Stand is an innovative web application designed to revolutionize the way cookie sales are managed. Developed by a talented programmer, the application combines elegant design with powerful functionality to create an immersive and efficient user experience. With Cookie Stand, users can effortlessly track and analyze their cookie sales data in real-time. The application offers a wide range of features that make it a must-have tool for any cookie-selling enterprise.",
+            "images": [
+                "images/portfolio/Salmon-Cookies/SalmonCookies.png",
+                "images/portfolio/Salmon-Cookies/SalmonCookies2.png",
+                "images/portfolio/Salmon-Cookies/SalmonCookies3.png"
+            ],
+            "url": "https://jaredplummer5.github.io/Cookie-stand/",
+            "technologies": [
+                {
+                    "class": "devicon-javascript-plain",
+                    "name": "JavaScript"
+                },
+                {
+                    "class": "devicon-html5-plain",
+                    "name": "HTML5"
+                },
+                {
+                    "class": "devicon-css3-plain",
+                    "name": "CSS"
+                }
+            ]
+        },
+        {
+            "title": "More About Me",
+            "startDate": "2023",
+            "description": "Prepare to be enthralled by the showcase's variety of projects, each showcasing my early technical prowess and innovative mindset. From mind-bending puzzle games that will test your logical reasoning to visually stunning data visualizations. Don't forget to take the quiz!!!",
+            "images": [
+                "images/portfolio/MoreAboutMe/Welcome.png",
+                "images/portfolio/MoreAboutMe/Edu.png",
+                "images/portfolio/MoreAboutMe/Quiz.png"
+            ],
+            "url": "https://jaredplummer5.github.io/201-02/",
+            "technologies": [
+                {
+                    "class": "devicon-javascript-plain",
+                    "name": "JavaScript"
+                },
+                {
+                    "class": "devicon-html5-plain",
+                    "name": "HTML5"
+                },
+                {
+                    "class": "devicon-css3-plain",
+                    "name": "CSS"
+                }
+            ]
+        },
+        {
+            "title": "Horned Beast",
+            "startDate": "2023",
+            "description": "Dive into the enchanting world of my Horned Beast project, a captivating interactive website that showcases my early programming talents and my knack for creating immersive digital experiences. Serving as one of my first projects, this captivating web application provides users with a delightful opportunity to express their admiration for their favorite magnificent horned creatures..",
+            "images": [
+                "images/portfolio/hornedBeast/hb1.png",
+                "images/portfolio/hornedBeast/hb2.png",
+                "images/portfolio/hornedBeast/hb3.png"
+            ],
+            "url": "https://main--imaginative-fox-3c18db.netlify.app/",
+            "technologies": [
+                {
+                    "class": "devicon-javascript-plain",
+                    "name": "JavaScript"
+                },
+                {
+                    "class": "devicon-html5-plain",
+                    "name": "HTML5"
+                },
+                {
+                    "class": "devicon-css3-plain",
+                    "name": "CSS"
+                },
+                {
+                    "class": "devicon-react-original",
+                    "name": "React"
+                }
+            ]
+        }
     ],
     "experience": [
-      {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
-      }
+        {
+            "company": "CodeCrew",
+            "title": "Student",
+            "years": "1.2023 - present",
+            "mainTech": [
+                "GitHub 1/20/2023",
+                "Git 1/20/2023",
+                "JavaScript 1/20/2023",
+                "CSS3 1/20/2023",
+                "HTML5 1/20/2023"
+                
+            ],
+            "technologies": [
+                
+                "GitHub",
+                "Git",
+                "JavaScript",
+                "CSS3",
+                "HTML5"
+                
+                
+            ]
+        }
+       
     ]
-  }
+}
